@@ -1,0 +1,33 @@
+fieldset
+{
+    border-radius: 10px;
+}
+
+input
+{
+    border-color: rgb(0, 81, 255);
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+select
+{
+    border-color: rgb(0, 81, 255);
+    border-radius: 10px;
+}
+
+legend
+{
+    color: rgb(0, 81, 255);;
+}
+
+button
+{
+    border-radius: 10px;
+    background-color: rgb(55, 0, 255);
+    border-color: white;
+    color: white;
+    
+}
+
+
